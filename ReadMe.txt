@@ -7,3 +7,5 @@
 5. Run the file "BPNN_GA_inverse" to know the design efforts.
 
 The file of "0_XY_coefficient" is obtained through the files "0_XY_base", "0_XY_incremental" and "0_XY_amplitude" sequentialy. 
+
+6. The full_data and curated_data are used for BPNN training/validattion/test.
